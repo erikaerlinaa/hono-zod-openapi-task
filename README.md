@@ -49,7 +49,7 @@ Everything happens in `src/index.ts`:
 
 Verify it: run `pnpm run dev`, then open `http://localhost:3001/scalar` — the `/tasks` endpoints should show up there with the `Task` and `CreateTask` schemas.
 
-![alt text](image.png)
+![alt text](img/scalar.png)
 
 ## Task 3 — Try both outcomes
 
